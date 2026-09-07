@@ -1,11 +1,5 @@
 # Portfolio — Tran Thi Thuy Vy
 
-Website portfolio cá nhân, **toàn bộ tiếng Anh**, dựng bằng **Next.js 14 + Tailwind CSS + Framer Motion**, deploy thẳng lên **Vercel**.
-Có **trang quản trị riêng** (đăng nhập bằng mật khẩu) để bạn tự thêm hoạt động, sửa số liệu,
-đổi ảnh và sửa chữ — không cần đụng vào code, không cần deploy lại.
-
----
-
 ## Mục lục
 
 1. [Các trang](#các-trang)
